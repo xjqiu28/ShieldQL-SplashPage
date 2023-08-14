@@ -1,2 +1,2 @@
 # SplashPage
-This repository is for the splash page of ShieldQL
+Splash Page for ShieldQL
