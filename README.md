@@ -1,2 +1,2 @@
 # SplashPage
-This will be where we keep our splash page
+This repository is for the splash page of ShieldQL
